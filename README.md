@@ -1,5 +1,5 @@
 # Supernova
-Real fucking shellcode encryptor & obfuscator.
+Shellcode encryptor & obfuscator.
 
 <p align="center">
   <img width="350" height="350" src="/Pictures/Logo/Supernova-Logo.png"><br /><br />
