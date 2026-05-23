@@ -145,7 +145,7 @@ go build Supernova
 ███████║╚██████╔╝██║     ███████╗██║  ██║██║ ╚████║╚██████╔╝ ╚████╔╝ ██║  ██║
 ╚══════╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝   ╚═══╝  ╚═╝  ╚═╝
 
-Supernova v4.0 - Real fucking shellcode encryptor & obfuscator tool.
+Supernova v4.0 - Shellcode encryptor & obfuscator tool.
 Supernova is an open source tool licensed under MIT.
 Written with <3 by @nickvourd.
 Please visit https://github.com/nickvourd/Supernova for more...
